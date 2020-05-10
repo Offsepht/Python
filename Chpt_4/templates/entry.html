@@ -1,13 +1,7 @@
-<!--{% extends 'base.html' %}-->
+{% extends 'base.html' %}
 
-<!--{% block body %}-->
-<!doctype html>
-<html>
-<head>
-    <title>{{ the_title }}</title>
-    <link rel="stylesheet" href="static/hf.css" />
-</head>
-<body>
+{% block body %}
+
 <h2>{{ the_title }}</h2>
 
 <form method="POST" action="/search4">
@@ -28,7 +22,5 @@
     <p>When you're ready, click this button:</p>
     <p><input value="Do it!" type="SUBMIT"></p>
 </form>
-</body>
-<!--{% endblock %}-->
 
-</html>
+{% endblock %}
