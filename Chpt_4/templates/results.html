@@ -1,7 +1,7 @@
-<html>
+
 {% extends 'base.html' %}
 
-{ % block body % }
+{% block body %}
 <h2>{{ the_title }}</h2>
 <p>You submitted the following date:</p>
 <table>
@@ -15,9 +15,9 @@
     </tr>
 </table>
 
-<p>When "{{the_phrase }}" is search for {{ the_letter }}", the following results are returned:</p>
+<p>When "{{ the_phrase }}" is search for {{ the_letter }}", the following results are returned:</p>
 <h3>{{ the_results }}</h3>
 
-{ % endblock % }
-</html>
+{% endblock %}
+
 
