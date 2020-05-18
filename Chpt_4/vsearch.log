@@ -1,4 +1,3 @@
-ImmutableMultiDict([('phrase', 'good evening commisioner'), ('letters', 'godevmocs')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36|{'o', 'm', 'g', 'c', 'v', 'e', 'd', 's'}
-ImmutableMultiDict([('phrase', 'hitchhikers guide to the galaxy'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36|{'o', 'a', 'i', 'u', 'e'}
-ImmutableMultiDict([('phrase', 'a useful idiot'), ('letters', 'asf')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36|{'a', 'f', 's'}
-ImmutableMultiDict([('phrase', 'tell me all of your thoughts on god'), ('letters', 'goytm')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36|{'y', 'o', 'm', 'g', 't'}
+ImmutableMultiDict([('phrase', 'Hello world'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36|{'o', 'e'}
+ImmutableMultiDict([('phrase', 'Are you sleeping Brother'), ('letters', 'thears')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36|{'r', 's', 'e', 'h', 't'}
+ImmutableMultiDict([('phrase', 'Could the one be singluar'), ('letters', 'zrfseaulc')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36|{'u', 'r', 's', 'e', 'l', 'a'}
